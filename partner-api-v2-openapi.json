@@ -1,0 +1,152 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "< An API v",
+        "title": "Partner API v2",
+        "description": "",
+        "termsOfService": ""
+    },
+    "servers": [
+        "\/v2"
+    ],
+    "paths": {
+        "\/identity.json\/gp\/{google_plus_id}": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "google_plus_id",
+                        "in": "path",
+                        "description": "A Google+ ID (e.g. 112620727907435773834)"
+                    }
+                ]
+            }
+        },
+        "\/identity.json\/ig\/{instagram_id}": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "instagram_id",
+                        "in": "path",
+                        "description": "An Instagram ID (e.g. 816029)"
+                    }
+                ]
+            }
+        },
+        "\/identity.json\/klout\/{klout_id}\/tw": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "klout_id",
+                        "in": "path",
+                        "description": "A KloutId (like 635263)"
+                    }
+                ]
+            }
+        },
+        "\/identity.json\/tw\/{twitter_id}": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "twitter_id",
+                        "in": "query",
+                        "description": "A twitter ID (e.g. 500042487)"
+                    }
+                ]
+            }
+        },
+        "\/identity.json\/twitter": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "screenName",
+                        "in": "query",
+                        "description": "A twitter screen name (e.g. jtimberlake)"
+                    }
+                ]
+            }
+        },
+        "\/user.json\/{kloutId}": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "kloutId",
+                        "in": "path",
+                        "description": "A kloutId (like 635263)"
+                    }
+                ]
+            }
+        },
+        "\/user.json\/{kloutId}\/influence": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "kloutId",
+                        "in": "path",
+                        "description": "A kloutId (like 635263)"
+                    }
+                ]
+            }
+        },
+        "\/user.json\/{kloutId}\/score": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "kloutId",
+                        "in": "path",
+                        "description": "A kloutId (like 635263)"
+                    }
+                ]
+            }
+        },
+        "\/user.json\/{kloutId}\/topics": {
+            "get": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "kloutId",
+                        "in": "path",
+                        "description": "A kloutId (like 635263)"
+                    }
+                ]
+            }
+        }
+    },
+    "components": {
+        "schemas": []
+    }
+}
