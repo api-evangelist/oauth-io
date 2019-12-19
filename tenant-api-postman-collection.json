@@ -1,0 +1,320 @@
+{
+    "id": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+    "name": "Tenant API",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": [
+        {
+            "id": "df7e1a80e107be7bb56ed41401f6728a",
+            "name": "",
+            "url": "5003\/claims",
+            "description": "",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "rawModeData": ""
+        },
+        {
+            "id": "3519d5d3aaddabc713d672b1bdc08b38",
+            "name": "",
+            "url": "5003\/healthcheck",
+            "description": "",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "rawModeData": ""
+        },
+        {
+            "id": "d1092566c4badd73f048661a64676127",
+            "name": "",
+            "url": "5003\/tenants",
+            "description": "",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "rawModeData": ""
+        },
+        {
+            "id": "de1ccedb7d8794e55d418134d225e9ab",
+            "name": "",
+            "url": "5003\/tenants",
+            "description": "",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "post",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "tenant",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "rawModeData": ""
+        },
+        {
+            "id": "323f97a31387c2368761f48d7204b302",
+            "name": "",
+            "url": "5003\/tenants\/{id}",
+            "description": "",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "id",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "rawModeData": ""
+        },
+        {
+            "id": "726d61eecf606ddaaf45bea9eebfdc81",
+            "name": "",
+            "url": "5003\/tenants\/{id}",
+            "description": "",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "put",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "id",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "tenant",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "rawModeData": ""
+        },
+        {
+            "id": "a0ca9871ddcc4be3ddee3ea6ad5a45b7",
+            "name": "",
+            "url": "5003\/tenants\/{id}",
+            "description": "",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "delete",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "id",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "rawModeData": ""
+        },
+        {
+            "id": "918b44c91f4685c0324a8b17a64e4c79",
+            "name": "",
+            "url": "5003\/tenants\/{tenantId}\/addresses",
+            "description": "",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "tenantId",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "rawModeData": ""
+        },
+        {
+            "id": "6b43d39695ac01a2b719f05b9cae3bb9",
+            "name": "",
+            "url": "5003\/tenants\/{tenantId}\/addresses",
+            "description": "",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "post",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "tenantId",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "address",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "rawModeData": ""
+        },
+        {
+            "id": "998b8dc1544b1bf8113f80d75a04006f",
+            "name": "",
+            "url": "5003\/tenants\/{tenantId}\/addresses\/{addressId}",
+            "description": "",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "tenantId",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "addressId",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "rawModeData": ""
+        }
+    ]
+}
