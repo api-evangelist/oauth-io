@@ -1,5 +1,5 @@
 {
-    "id": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+    "id": "72479139c3daca58d0cd496ea8a8149b",
     "name": "Tenant API",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "df7e1a80e107be7bb56ed41401f6728a",
+            "id": "51f8579d140845fcf6b259ca804e7ade",
             "name": "",
             "url": "5003\/claims",
             "description": "",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "collectionId": "72479139c3daca58d0cd496ea8a8149b",
             "rawModeData": ""
         },
         {
-            "id": "3519d5d3aaddabc713d672b1bdc08b38",
+            "id": "3329f3e5efcc4b077be30e206898b9d1",
             "name": "",
             "url": "5003\/healthcheck",
             "description": "",
@@ -52,11 +52,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "collectionId": "72479139c3daca58d0cd496ea8a8149b",
             "rawModeData": ""
         },
         {
-            "id": "d1092566c4badd73f048661a64676127",
+            "id": "2a786c036a16ce401883c80a5692302d",
             "name": "",
             "url": "5003\/tenants",
             "description": "",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "collectionId": "72479139c3daca58d0cd496ea8a8149b",
             "rawModeData": ""
         },
         {
-            "id": "de1ccedb7d8794e55d418134d225e9ab",
+            "id": "cc1557e77fde624def4ecd49930595f1",
             "name": "",
             "url": "5003\/tenants",
             "description": "",
@@ -106,11 +106,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "collectionId": "72479139c3daca58d0cd496ea8a8149b",
             "rawModeData": ""
         },
         {
-            "id": "323f97a31387c2368761f48d7204b302",
+            "id": "ad3a8201e9efc912f4577d1636673074",
             "name": "",
             "url": "5003\/tenants\/{id}",
             "description": "",
@@ -137,11 +137,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "collectionId": "72479139c3daca58d0cd496ea8a8149b",
             "rawModeData": ""
         },
         {
-            "id": "726d61eecf606ddaaf45bea9eebfdc81",
+            "id": "096f74bc40395ba837c231518815d04c",
             "name": "",
             "url": "5003\/tenants\/{id}",
             "description": "",
@@ -175,11 +175,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "collectionId": "72479139c3daca58d0cd496ea8a8149b",
             "rawModeData": ""
         },
         {
-            "id": "a0ca9871ddcc4be3ddee3ea6ad5a45b7",
+            "id": "4c32f91db46e7105355886b44ef604cf",
             "name": "",
             "url": "5003\/tenants\/{id}",
             "description": "",
@@ -206,11 +206,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "collectionId": "72479139c3daca58d0cd496ea8a8149b",
             "rawModeData": ""
         },
         {
-            "id": "918b44c91f4685c0324a8b17a64e4c79",
+            "id": "213ee1c9ed52c53d1a47d1fa2bcc514d",
             "name": "",
             "url": "5003\/tenants\/{tenantId}\/addresses",
             "description": "",
@@ -237,11 +237,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "collectionId": "72479139c3daca58d0cd496ea8a8149b",
             "rawModeData": ""
         },
         {
-            "id": "6b43d39695ac01a2b719f05b9cae3bb9",
+            "id": "0ccda0e8ff6d1b98ae2afef0ae6b9f61",
             "name": "",
             "url": "5003\/tenants\/{tenantId}\/addresses",
             "description": "",
@@ -275,11 +275,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "collectionId": "72479139c3daca58d0cd496ea8a8149b",
             "rawModeData": ""
         },
         {
-            "id": "998b8dc1544b1bf8113f80d75a04006f",
+            "id": "95bf6cf2b1491bb4c66dc468b06d3804",
             "name": "",
             "url": "5003\/tenants\/{tenantId}\/addresses\/{addressId}",
             "description": "",
@@ -313,7 +313,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "43ebd9477e1e8cacf63d47a7f7d9d79a",
+            "collectionId": "72479139c3daca58d0cd496ea8a8149b",
             "rawModeData": ""
         }
     ]
