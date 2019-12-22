@@ -1,5 +1,5 @@
 {
-    "id": "920b1b348b0b93130555ef94eeced972",
+    "id": "ca3a6fe65216b1c5516de39619632ea1",
     "name": "Partner API v2",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "0029734ca914bc1f54447278362733db",
+            "id": "f96c79db69230286de580faf5e0f9df6",
             "name": "",
             "url": "\/v2\/identity.json\/gp\/{google_plus_id}",
             "description": "",
@@ -37,11 +37,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "920b1b348b0b93130555ef94eeced972",
+            "collectionId": "ca3a6fe65216b1c5516de39619632ea1",
             "rawModeData": ""
         },
         {
-            "id": "9b62de857891df44bb2bdcbde89a9dcf",
+            "id": "51b5ccbed86de56a8da967ad55279525",
             "name": "",
             "url": "\/v2\/identity.json\/ig\/{instagram_id}",
             "description": "",
@@ -68,11 +68,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "920b1b348b0b93130555ef94eeced972",
+            "collectionId": "ca3a6fe65216b1c5516de39619632ea1",
             "rawModeData": ""
         },
         {
-            "id": "57c1e2d7b3541825ddfe4ede4d4ff6b8",
+            "id": "73064aa83031c1d03f91edcb0c275df5",
             "name": "",
             "url": "\/v2\/identity.json\/klout\/{klout_id}\/tw",
             "description": "",
@@ -99,11 +99,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "920b1b348b0b93130555ef94eeced972",
+            "collectionId": "ca3a6fe65216b1c5516de39619632ea1",
             "rawModeData": ""
         },
         {
-            "id": "b814d159bdf772c306a27eaf99131fe7",
+            "id": "e9f9120a0fcf9a07d0d92b5c489e78cd",
             "name": "",
             "url": "\/v2\/identity.json\/tw\/{twitter_id}",
             "description": "",
@@ -130,11 +130,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "920b1b348b0b93130555ef94eeced972",
+            "collectionId": "ca3a6fe65216b1c5516de39619632ea1",
             "rawModeData": ""
         },
         {
-            "id": "551ded002843302e9ae5b9863fb7b6ec",
+            "id": "bd45c6fbd45a80ea09f8f035700c6f1a",
             "name": "",
             "url": "\/v2\/identity.json\/twitter",
             "description": "",
@@ -161,11 +161,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "920b1b348b0b93130555ef94eeced972",
+            "collectionId": "ca3a6fe65216b1c5516de39619632ea1",
             "rawModeData": ""
         },
         {
-            "id": "ee31b3cc1b56be5a2e5e91b0ad02b22c",
+            "id": "22acf6090d321f258eacd3e741538102",
             "name": "",
             "url": "\/v2\/user.json\/{kloutId}",
             "description": "",
@@ -192,11 +192,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "920b1b348b0b93130555ef94eeced972",
+            "collectionId": "ca3a6fe65216b1c5516de39619632ea1",
             "rawModeData": ""
         },
         {
-            "id": "ff7e66058fdd54976f816f760244fe38",
+            "id": "582170102281ba5b8441bcc614dff455",
             "name": "",
             "url": "\/v2\/user.json\/{kloutId}\/influence",
             "description": "",
@@ -223,11 +223,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "920b1b348b0b93130555ef94eeced972",
+            "collectionId": "ca3a6fe65216b1c5516de39619632ea1",
             "rawModeData": ""
         },
         {
-            "id": "ce1111c7d377dc5fe81fd21c27488dad",
+            "id": "ff30701a56784992ed71cc8d1bd505da",
             "name": "",
             "url": "\/v2\/user.json\/{kloutId}\/score",
             "description": "",
@@ -254,11 +254,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "920b1b348b0b93130555ef94eeced972",
+            "collectionId": "ca3a6fe65216b1c5516de39619632ea1",
             "rawModeData": ""
         },
         {
-            "id": "a854726cb3c235192d5038ae68c593bf",
+            "id": "4a65022f2b345083c7d019ce0fc8375c",
             "name": "",
             "url": "\/v2\/user.json\/{kloutId}\/topics",
             "description": "",
@@ -285,7 +285,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "920b1b348b0b93130555ef94eeced972",
+            "collectionId": "ca3a6fe65216b1c5516de39619632ea1",
             "rawModeData": ""
         }
     ]
